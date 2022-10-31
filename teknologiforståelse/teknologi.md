@@ -1,6 +1,3 @@
-#teknologi
+# Teknologiforståelse oppgaver
+
 ---
-
-teknologie er gøy
-
-> hallo
