@@ -1,3 +1,0 @@
-# Teknologiforståelse oppgaver
-
----
