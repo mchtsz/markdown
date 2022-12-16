@@ -1,4 +1,0 @@
-# Konseptutvikling og programmering oppgaver
-
----
-
